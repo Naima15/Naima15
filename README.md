@@ -1,7 +1,6 @@
-https://scontent.fdac20-1.fna.fbcdn.net/v/t1.6435-9/84594402_672582540211456_6503598225889427456_n.jpg?stp=dst-jpg_p960x960&_nc_cat=104&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeFrB9tjSBwzRVMrYobVAHR8SaITzg_npfZJohPOD-el9mMmvuEB6VU4i6pGbQNRIwiczLPUSSjxyVNivV0Ffa0E&_nc_ohc=1YS8j4RiwCAAX--hHTF&_nc_ht=scontent.fdac20-1.fna&oh=00_AfCG8ZLymQMueNWZolrGNemRd2WzRY5TA081mLDjduROyg&oe=649AAC0B
-
-## Hi there 👋, I am Jannatun Naima
+### Hi there 👋, I am Jannatun Naima
 #### I am a Web Designer and Developer
+![I am a Web Designer and Developer](https://scontent.fdac20-1.fna.fbcdn.net/v/t1.6435-9/84594402_672582540211456_6503598225889427456_n.jpg?stp=dst-jpg_p960x960&_nc_cat=104&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeFrB9tjSBwzRVMrYobVAHR8SaITzg_npfZJohPOD-el9mMmvuEB6VU4i6pGbQNRIwiczLPUSSjxyVNivV0Ffa0E&_nc_ohc=1YS8j4RiwCAAX--hHTF&_nc_ht=scontent.fdac20-1.fna&oh=00_AfCG8ZLymQMueNWZolrGNemRd2WzRY5TA081mLDjduROyg&oe=649AAC0B)
 
 I want to become a successful expert in the field of Information Technology by channelizing my technical knowledge and skills to ensure personal growth. I am a hunger to learn new things in my professional life. Now I practicing my design and development code and store in this site. Anyone can use my code freely. 
 
