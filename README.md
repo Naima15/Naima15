@@ -1,7 +1,7 @@
 ## Hi there 👋, I am Jannatun Naima
 ### I am a Web Designer and Developer
 
-I want to become a successful expert in the field of Information Technology by channelizing my technical knowledge and skills to ensure personal growth. I am a hunger to learn new things in my professional life. Now I practicing my design and development code and store in this site. Anyone can use my code freely. 
+I want to become a successful expert in the field of Information Technology by channelizing my technical knowledge and skills to ensure personal growth. I am a hunger to learn new things in my professional life. Now I practicing my design and development site and store my code in this site. Anyone can use my code freely. 
 
 Skills: HTML / CSS / Bootstrap/ Tailwind CSS/ JavaScript/ MySQL Server/ Figma/ Adobe XD 
 
